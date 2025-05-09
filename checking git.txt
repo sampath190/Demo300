@@ -1,2 +1,3 @@
 checking git 
 second commit
+In User name we can give username and in password give token that is been generated
