@@ -1,4 +1,8 @@
 checking git 
 second commit
+<<<<<<< HEAD
 
 
+=======
+In User name we can give username and in password give token that is been generated
+>>>>>>> db711a97a3c0e6b778280a85e8507b0efefb6d0e
